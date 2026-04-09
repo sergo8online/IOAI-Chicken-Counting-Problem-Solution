@@ -5,7 +5,7 @@ This repository contains my solution to the IOAI Chicken Counting task (crowd co
 
 I implemented a UNet architecture from scratch in PyTorch to predict density maps and estimate the number of chickens in each image.
 
-Final score: **0.87**
+Final score: **0.90**
 
 ---
 
